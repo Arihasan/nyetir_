@@ -1,0 +1,44 @@
+Alur dari WEB SEKOLAH MENGEMUDI
+Actor: 
+	1.	Admin/Staff
+	2.	Visitor/Calon Siswa
+	3.	Siswa Pelatihan/Peserta
+
+ADMIN/STAFF
+Login terlebih dahulu sebagi admin untuk mengelola web pada bagian admin untuk pengolahan datanya.
+
+VISITOR/CALON SISWA
+Karna dia baru jadi pengunjung web belum mendaftar jadi member/peserta hanya bisa melihat lihat yg tersedia pada tampilan web (tidak bisa mendaftar sebagai siswa/peserta) karna sebagai siswa/peserta harus login/registration sebagai sebagai member terlebih dahulu (membuat akun). Dan visitor/calon siswa hanya bisa melihat: 
+	1.	Halaman Beranda
+	2.	Profil
+	3.	Info Paket (seharusnya disini sudah bisa mendaftarkan diri sebagai siswa/peserta, karna masih sebagai visitor hanya bisa melihat saja. Jadi harus daftar/membuat akun terlebih dahulu sebagai member/siswa sekolah mengemudi untuk bisa menampilkan tombol daftar/bisa untuk mendapatkan diri).
+	4.	Tentang kami
+	5.	Contact 
+	6.	Regist/Login (untuk membuat akun/login sebagai member/peserta untuk bisa mendaftarkan sekolah mengemudi)
+
+SISWA BARU/PESERTA
+Dapat melihat:
+	1.	Halaman beranda
+	2.	Profil
+	3.	Info paket (Peserta sudah bisa memilih/mendaftarkan diri sebagai siswa baru pada sekolah mengemudi. Muncul tombol Daftar dibawah pilihan paketnya)
+	4.	Tentang Kami
+	5.	Contact 
+	6.	Logout
+	
+	•	Setelah peserta mengklick tombol daftar/mendaftarkan dirinya sebagai Calon Siswa pada sekolah mengemudi, peserta harus mengisi syarat pendaftaran terlebih dahulu. Sebagai berikut:
+	1.	Nama Lengkap
+	2.	Alamat Rumah
+	3.	Nomor Handphone
+	4.	Biaya paket
+	5.	Pilihan Mobil (Manual/Metic)
+	6.	Upload Surat Izin Mengemudi (SIM)
+	7.	Upload KTP (sebagai syarat utk mengikuti pelatihan)
+	8.	Start penjemputan:
+	•	Kantor Jaya Stir 1 Jl. Pandu Raya Rt.02/04 
+	•	Kantor Jaya Stir 2 Jl. KH Soleh Iskandar Rt.01/06
+	•	Alamat Rumah (Berdomisili bogor)
+	9.	Setelah mengisi persyaratan, bisa pembuat web bisa menambahkan metode pembayaran lewat bank/yg lainya. (Saran)
+	10.	Klick Kirim
+Lalu setelah peserta mendaftarkan dirinya, peserta dialihkan ke metode transaksi ➡️ setelah selesai dialihkan ke Transaksi berhasil dan mengisi nama, no rek, nama bank, ats nama yg tertera pada rek, bukti Transaksi/transferan (sisanya terserah pembuat web) bisa ada menunggi pembayaran setelah transaksi sebelum transaksi berhasil dll. 
+
+TOLONG UNTUK WEB ADMIN & PESERTA HARUS BERBEDA/TERPISAH AGAR VISITOR/PESERTA TIDAK BISA MENGAKSES WEB BAGIAN ADMIN.
